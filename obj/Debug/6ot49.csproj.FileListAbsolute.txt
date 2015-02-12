@@ -1,0 +1,5 @@
+c:\users\vasil\documents\visual studio 2013\Projects\factoriel\factoriel\bin\Debug\factoriel.exe.config
+c:\users\vasil\documents\visual studio 2013\Projects\factoriel\factoriel\bin\Debug\factoriel.exe
+c:\users\vasil\documents\visual studio 2013\Projects\factoriel\factoriel\bin\Debug\factoriel.pdb
+c:\users\vasil\documents\visual studio 2013\Projects\factoriel\factoriel\obj\Debug\factoriel.exe
+c:\users\vasil\documents\visual studio 2013\Projects\factoriel\factoriel\obj\Debug\factoriel.pdb
